@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CsharpProject1.csproj" />
+  <Project Path="TASK1/ConsoleApp1/ConsoleApp1.csproj" />
+</Solution>
