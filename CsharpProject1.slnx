@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../CsharpProjectTask2/ConsoleApp2/ConsoleApp2.csproj" Id="37615c02-bb07-408e-9533-9892637861a3" />
   <Project Path="CsharpProject1.csproj" />
   <Project Path="TASK1/ConsoleApp1/ConsoleApp1.csproj" />
 </Solution>
